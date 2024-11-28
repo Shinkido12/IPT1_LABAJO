@@ -1,0 +1,114 @@
+H1{
+    Text-align:center;
+}
+.personalDataText{
+Width: 1500px;
+Background-color: black;
+Color:white;
+Display:block;
+Border-radius:4px;
+Font-weight:700;
+
+}
+
+.container{
+Display:flex;
+Justify-content: space-between;
+
+}
+.profileContainer{
+Width:200px;
+Height:200px;
+Border:2px solid black;
+
+}
+H1{
+Text-align:center;
+}
+.box1Container{
+Width:1500px;
+Height:950px;
+Border: 2px solid black;
+Border-radius: 5px;
+}
+.firsttwoField{
+Display: flex;
+Justify-content: space-evenly;
+}
+.secondtwoField{
+Display: flex;
+Justify-content: space-evenly;
+}
+.addressField{
+Margin-left:80px;
+}
+.fourthtwoField{
+Display: flex;
+Justify-content: space-between;
+}
+.telText{
+Margin-left:80px;
+}
+.cellphoneText{
+Margin-right:70px;
+}
+.email{
+
+Margin-left:80px;
+}
+.fifthtwoField{
+Display: flex;
+Justify-content: space-between;
+}
+.dobTxt{
+Margin-left:80px;
+
+}
+.sixthtwoField{
+Display: flex;
+Justify-content: space-between;
+}
+.citText{
+Margin-right:20px;
+}
+.seventwoField{
+Display: flex;
+Justify-content: space-between;
+}
+.dob1Txt{
+Margin-left:205px;
+}
+.content2{
+Width:1500px;
+Height:250px;
+Border:2px solid black;
+Border-radius: 5px;
+}
+.content3{
+Width:1500px;
+Height:250px;
+Border:2px solid black;
+Border-radius: 5px;
+}
+.threeField{
+Display: flex;
+Justify-content: space-evenly;
+Align-items: center;
+Gap:120px;
+}
+.content4{
+Display: flex;
+Justify-content: space-between;
+}
+.lastcontent{
+Width: 800px;
+Height:300px;
+Border: 2px solid black;
+Border-radius: 5px;
+}
+.textContent1{
+Width:600px;
+}
+.signature{
+Margin-left:250px;
+}

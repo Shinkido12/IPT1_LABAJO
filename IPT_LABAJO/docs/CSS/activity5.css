@@ -1,0 +1,24 @@
+
+    /* Light mode (default) styles */
+    body {
+      background-color: white;
+      color: black;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    /* Dark mode styles */
+    body.dark-mode {
+      background-color: black;
+      color: white;
+    }
+
+    /* Button styling */
+    #toggle-button {
+      padding: 10px 20px;
+      margin: 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+      float: right;
+    }
+  
